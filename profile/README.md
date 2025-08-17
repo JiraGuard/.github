@@ -6,8 +6,6 @@ JiraGuard helps teams write and ship clear, complete, and dev‑ready Jira ticke
 
 > Because "it works on my machine" shouldn't be your sprint plan.
 
----
-
 ## What’s available now (MVP + early work)
 
 - Live ticket description validation
@@ -29,14 +27,10 @@ JiraGuard helps teams write and ship clear, complete, and dev‑ready Jira ticke
 
 > Note: The repo includes experimental “remote” LLM paths for testing; local mode is the default and recommended for sensitive data.
 
----
-
 ## Vision and Mission
 
 - Vision: Every ticket is dev‑ready before it reaches a developer.
 - Mission: Eliminate ambiguity, gaps, and unclear specs using local AI, templates, and best practices - helping teams save 3–5+ hours per sprint and ship with less risk.
-
----
 
 ## Why JiraGuard?
 
@@ -45,8 +39,6 @@ JiraGuard helps teams write and ship clear, complete, and dev‑ready Jira ticke
 - Runs locally and protects privacy.
 - Open to customization and community contributions.
 
----
-
 ## Tech Stack
 
 - Framework: Angular 20 (standalone components, Signals)
@@ -54,8 +46,6 @@ JiraGuard helps teams write and ship clear, complete, and dev‑ready Jira ticke
 - AI: Ollama (local LLMs; supports Llama 3, Mistral…)
 - Integrations: Jira REST API (Cloud/Server; in progress)
 - Extras: ngx‑markdown, ngx‑clipboard, ngx‑cookie‑service
-
----
 
 ## Open‑source Scope
 
@@ -67,16 +57,13 @@ Our plan is to keep the core parts open-source:
 
 Advanced and enterprise features may later be offered as additional modules, but the core that makes tickets better - we want to keep freely available to everyone.
 
----
-
 ## Project Status
 
 Everything is still in preparation and active development. Early users help us prioritize. If you want more details, a demo, or to contribute - feel free to reach out.
 
+- Link to the [App](https://jiraguard.com): https://jiraguard.com
 - DM on [X](https://x.com/duxorX) or [LinkedIn](https://www.linkedin.com/in/dusanperisic/) - happy to respond.
 - Join the [Discord](https://discord.gg/CsKxjPYPJz) community.
-
----
 
 ## How You Can Help
 
